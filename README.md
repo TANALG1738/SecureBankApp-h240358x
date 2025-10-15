@@ -5,13 +5,18 @@ A console-based banking system built in Java that demonstrates secure coding pra
 • Details: .Name: Tanatswa Guzha
                 .RegNo: H240358X
 
-• Features: 
-1.	 Input Validation: All user inputs are validated and sanitized
-2.	Password Hashing: Uses SHA-256 with salt for secure password storage
-3.	Error Handling: Generic error messages without system details
-4.	Authentication: Secure login system with proper session management
-5.	Authorization: Users can only access their own accounts
-6.	Data Persistence: Secure file-based storage with proper serialization
-7.	Input Sanitization: Prevents XSS and injection attacks
+• Features:
+•	 loging in the system.
+•	Creating a new bank account,
+•	Viewing account balance.
+•	Depositing and withdrawing funds.
+•	User Authentication 
+•	Input Validation: All user inputs are validated and sanitized
+•	Password Hashing: Uses SHA-256 with salt for secure password storage
+•	Error Handling: Generic error messages without system details
+•	Authentication: Secure login system with proper session management
+•	Authorization: Users can only access their own accounts
+•	Data Persistence: Secure file-based storage with proper serialization
+•	Input Sanitization: Prevents XSS and injection attacks
 
 
